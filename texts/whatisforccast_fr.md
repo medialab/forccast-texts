@@ -1,11 +1,3 @@
----
-parsefootnotes: true
-title: "what is forccast?"
-level: 0
-layout: page.html
-sort: 1
----
-
 Le programme Forccast est lauréat de l’appel d’offres lancé par l’Agence nationale de la recherche à propos des Initiatives d’excellence en formations innovantes (IDEFI). Il est financé de 2012 à 2019.
 
 Il compte quatorze institutions d’enseignement et de recherche. Parmi les partenaires, on compte aussi bien des établissements du secondaire que du supérieur, spécialisés dans les sciences sociales ou les sciences de l’ingénieur, situés en France ou à l’étranger. Il est hébergé à Sciences Po.

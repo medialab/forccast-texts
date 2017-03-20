@@ -1,9 +1,3 @@
----
-parsefootnotes: true
-title: "controversies"
-layout: page.html
----
-
 Social studies of sciences have demonstrated that the process of developing scientific knowledge is marked by discussions and even disputes of which the results have a degree of uncertainty.
 
 Numerous works in the field of sociology of innovation have shown that such discussions extend beyond the walls of laboratories and implicate not only scientists but also non governmental organizations, companies, elected officials, journalists…

@@ -1,11 +1,3 @@
----
-parsefootnotes: true
-title: "controversies"
-level: 0
-layout: page.html
-sort: 2
----
-
 Les études sociales des sciences ont montré que le processus normal d’élaboration des connaissances scientifiques était jalonné de discussions et de disputes dont l’issue est bien souvent incertaine.
 
 De nombreux travaux qui se réclament de la sociologie des innovations ont quant à eux mis en évidence que de telles discussions dépassent les murs des laboratoires et n’impliquent pas seulement des scientifiques, mais également des associations, des entreprises, des élus, des journalistes…
