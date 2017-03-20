@@ -1,4 +1,5 @@
 ---
+parsefootnotes: true
 title: "controversies"
 level: 0
 layout: page.html
@@ -11,7 +12,7 @@ De nombreux travaux qui se réclament de la sociologie des innovations ont quant
 
 Qu’ils soient confinés à des cercles de spécialistes ou plus largement publicisés, les débats qui accompagnent l’élaboration des savoirs et qui sont marqués par des zones d’incertitude sont appelés controverses.
 
-### Cartographie des controverses 
+### Cartographie des controverses
 
 La cartographie des controverses est une méthode qui propose de retrouver des prises dans ces situations d’incertitude. Elle consiste en une enquête collective réalisée par des groupes d’étudiants selon des méthodes qualitatives et des méthodes numériques. Elle permet non seulement à décrire toutes les parties prenantes et leurs relations, mais également les enjeux qui font problème pour chacun des acteurs impliqués, ainsi que ce qui fonde la position de chacun d’entre eux.
 

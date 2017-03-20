@@ -1,4 +1,5 @@
 ---
+parsefootnotes: true
 title: "what is forccast?"
 level: 0
 layout: page.html
@@ -10,4 +11,4 @@ The Forccast program is a laureate of the call for projects on Initiatives of Ex
 
 Forccast includes fourteen higher education and research institutions. Among its partners are institutions from both higher and lower education, specialized in social and engineering sciences in France and abroad. SciencesPo hosts the Forccast project.
 
-Forccast’s activities focus on the interactions between science, technology and society (STS). The program’s goal is to train different audiences on the exploration of contemporary controversies, which emanate from the massive proliferation of scientific and technical innovations. 
+Forccast’s activities focus on the interactions between science, technology and society (STS). The program’s goal is to train different audiences on the exploration of contemporary controversies, which emanate from the massive proliferation of scientific and technical innovations.
