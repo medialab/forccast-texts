@@ -13,7 +13,7 @@ L’ambition de la cartographie des controverses est double : elle permet permet
 La cartographie des controverses peut ainsi être conçue comme une proposition originale pour restaurer la confiance et agir dans un monde incertain.
 
 
-[^lien-video]:
+[^lien-video]: voir l'exemple de la soutenance du cours de cartographie des controverses de l'école de la communication de Sciences Po, 2016 :
 
 	<iframe src="https://player.vimeo.com/video/171718435" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     
