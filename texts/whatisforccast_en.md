@@ -10,16 +10,14 @@ Forccast deploys such teaching methods by developing and utilizing the necessary
 
 [^lien-controversy]:
 
-TODO : mettre exemple de controverse Manchester
+	TODO : mettre exemple de controverse Manchester
 
 [^lien-simulation]:
 
-<iframe src="https://player.vimeo.com/video/63807749?color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/63807749?color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [^salle-de-classe]:
 
-A specific classroom has been designed for controversy mapping teaching
+	A specific classroom has been designed for controversy mapping teaching
 
-TODO : mettre image dans flickr forccast (https://drive.google.com/drive/u/1/folders/0By-a7QEwbJYDTUx4dVBPZDJRS2s)
-
-
+	TODO : mettre image dans flickr forccast (https://drive.google.com/drive/u/1/folders/0By-a7QEwbJYDTUx4dVBPZDJRS2s)
