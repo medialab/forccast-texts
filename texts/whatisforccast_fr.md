@@ -6,7 +6,7 @@ Les activités de Forccast sont fondées sur un courant de recherche qui analyse
 
 Pour cela, Forccast propose deux expériences complémentaires qui ont en commun de rendre les étudiants acteurs de leurs apprentissages : la cartographie des controverses et les simulations de négociation et de débat. Toutes ces expériences visent à apprendre à se repérer, à s’exprimer, à décider en situation d’incertitude.
 
-Forccast propose enfin de développer l’environnement complet nécessaire au déploiement de ces expériences : [ressources pédagogiques]('/fr/resources/'), méthodes, outils numériques, tutoriels, formations de formateurs, salles de classe[^photo-salle] etc.
+Forccast propose enfin de développer l’environnement complet nécessaire au déploiement de ces expériences : [ressources pédagogiques](/fr/resources/), méthodes, outils numériques, tutoriels, formations de formateurs, salles de classe[^photo-salle] etc.
 
 Here is a footnote reference[^longnote] tutoriels, formations de formateurs, salles de classe etc.
 
