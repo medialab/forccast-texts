@@ -10,24 +10,24 @@ Forccast propose enfin de développer l’environnement complet nécessaire au d
 
 [^longnote]:
 
-<iframe src="https://player.vimeo.com/video/154046912?color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/154046912?color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Conférence de Bruno Latour au lycée Germaine Tillion, Le Bourget, 2016.
-
-[^longnote]:
-
-Voir un exemple d'étude de controverses : *La bataille des sols*, SciencesPo, 2013.
-
-TODO: avoir photo du site et mettre un lien vers la bataille des sols (todo 2 : trouver adresse IAM creator)
+	Conférence de Bruno Latour au lycée Germaine Tillion, Le Bourget, 2016.
 
 [^longnote]:
 
-Voir un exemple de simulation : *Les réseaux électriques en transition*, SciencesPo, 2016.
+	Voir un exemple d'étude de controverses : *La bataille des sols*, SciencesPo, 2013.
 
-<iframe src="https://player.vimeo.com/video/207531778" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	TODO: avoir photo du site et mettre un lien vers la bataille des sols (todo 2 : trouver adresse IAM creator)
+
+[^longnote]:
+
+	Voir un exemple de simulation : *Les réseaux électriques en transition*, SciencesPo, 2016.
+
+	<iframe src="https://player.vimeo.com/video/207531778" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     
 [^longnote]: 
 
-La salle de classe créée spécialement pour le programme FORCCAST.
+	La salle de classe créée spécialement pour le programme FORCCAST.
 
-TODO : mettre image dans flickr forccast (https://drive.google.com/drive/u/1/folders/0By-a7QEwbJYDTUx4dVBPZDJRS2s)
+	TODO : mettre image dans flickr forccast (https://drive.google.com/drive/u/1/folders/0By-a7QEwbJYDTUx4dVBPZDJRS2s)
