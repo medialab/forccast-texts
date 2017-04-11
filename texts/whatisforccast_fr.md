@@ -8,4 +8,4 @@ Pour cela, Forccast propose deux expériences complémentaires qui ont en commun
 
 Forccast propose enfin de développer l’environnement complet nécessaire au déploiement de ces expériences : [ressources pédagogiques](/fr/resources), méthodes, outils numériques, tutoriels, formations de formateurs, salles de classe[^1] etc.
     
-[^1]: La salle de classe créée spécialement pour le programme FORCCAST.
+[^1]: ### La salle de classe créée spécialement pour le programme FORCCAST.
