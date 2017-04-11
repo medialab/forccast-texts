@@ -15,4 +15,4 @@ La cartographie des controverses peut ainsi être conçue comme une proposition 
 
 [^lien-video]:
 
-	Lien vidéo
+	<iframe src="https://player.vimeo.com/video/171718435" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
