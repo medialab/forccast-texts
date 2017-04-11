@@ -8,11 +8,9 @@ Pour cela, Forccast propose deux expériences complémentaires qui ont en commun
 
 Forccast propose enfin de développer l’environnement complet nécessaire au déploiement de ces expériences : méthodes, [ressources pédagogiques, outils numériques, tutoriels, formations de formateurs](/fr/resources), salles de classe[^salle-classe], etc.
 
-[^lien-lycees]:
+[^lien-lycees]: Conférence de Bruno Latour au lycée Germaine Tillion, Le Bourget, 2016.
 
 	<iframe src="https://player.vimeo.com/video/154046912?color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-	Conférence de Bruno Latour au lycée Germaine Tillion, Le Bourget, 2016.
 
 [^carto-controverses]:
 
