@@ -12,7 +12,7 @@ Forccast deploys such teaching methods by developing and utilizing the necessary
 
 	TODO : mettre exemple de controverse Manchester
 
-[^lien-simulation]: #### Test of title
+[^lien-simulation]: Simulation *Negociating on Iran*:
 
 	<iframe src="https://player.vimeo.com/video/63807749?color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
