@@ -12,9 +12,7 @@ The goal of mapping controversies is twofold: it helps students comprehend the c
 
 The mapping of controversies can therefore be conceived as an original proposal on how to restore confidence and act in an uncertain world.
 
-[^link-video]:
-
-	<iframe src="https://player.vimeo.com/video/171718435" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[^link-video]: <iframe src="https://player.vimeo.com/video/171718435" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     
 [^link-studies]:
 
