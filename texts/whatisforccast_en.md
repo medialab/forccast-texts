@@ -1,4 +1,4 @@
-The Forccast program is a laureate of the call for projects on Initiatives of Excellence in Innovative Training (Initiatives d’excellence en formations innovantes (IDEFI) of the French National Agency for Research. It is financed from 2012 through 2019.
+The Forccast program is a laureate of the call for projects on Initiatives of Excellence in Innovative Training (Initiatives d’excellence en formations innovantes ([IDEFI](http://www.agence-nationale-recherche.fr/investissements-d-avenir/appels-a-projets/2011/initiatives-dexcellence-en-formations-innovantes-idefi/)) of the French National Agency for Research. It is financed from 2012 through 2019.
 
 Forccast includes fourteen higher education and research institutions. Among its partners are institutions from both higher and lower education, specialized in social and engineering sciences in France and abroad. SciencesPo hosts the Forccast project.
 
