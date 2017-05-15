@@ -15,8 +15,7 @@ Forccast propose enfin de développer l’environnement complet nécessaire au d
 [^carto-controverses]:
 
 	Voir un exemple d'étude de controverses : *La bataille des sols*, SciencesPo, 2013.
-
-	TODO: avoir photo du site et mettre un lien vers la bataille des sols (todo 2 : trouver adresse IAM creator)
+	![http://forccast.hypotheses.org/files/2017/04/survival-cutest.png](http://forccast.hypotheses.org/files/2017/04/survival-cutest.png)
 
 [^simulation]:
 
