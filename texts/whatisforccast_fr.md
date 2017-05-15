@@ -27,4 +27,4 @@ Forccast propose enfin de développer l’environnement complet nécessaire au d
 
 	La salle de classe créée spécialement pour le programme FORCCAST.
 
-	TODO : mettre image dans flickr forccast (https://drive.google.com/drive/u/1/folders/0By-a7QEwbJYDTUx4dVBPZDJRS2s)
+	![http://forccast.hypotheses.org/files/2017/05/ARM160428-019.jpg](La salle de classe forccast)
