@@ -26,5 +26,4 @@ Forccast propose enfin de développer l’environnement complet nécessaire au d
 [^salle-classe]: 
 
 	La salle de classe créée spécialement pour le programme FORCCAST.
-
 	![La salle de classe forccast](http://forccast.hypotheses.org/files/2017/05/ARM160428-019.jpg)
