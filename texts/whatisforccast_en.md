@@ -10,7 +10,8 @@ Forccast deploys such teaching methods by developing and utilizing the necessary
 
 [^lien-controversy]:
 
-	TODO : mettre exemple de controverse Manchester
+	See for instance : *[The dunes of Scotland Golf Resort](http://www.msa.ac.uk/mac/assets/2011/dunes/)*, University of Manchester, 2011.
+	![The dunes of Scotland Golf Resort](http://forccast.hypotheses.org/files/2017/05/trumpcontroversy.png)
 
 [^lien-simulation]: Simulation *Negociating on Iran*:
 
