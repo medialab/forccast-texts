@@ -20,5 +20,5 @@ Forccast deploys such teaching methods by developing and utilizing the necessary
 [^salle-de-classe]:
 
 	A specific classroom has been designed for controversy mapping teaching
-
-	TODO : mettre image dans flickr forccast (https://drive.google.com/drive/u/1/folders/0By-a7QEwbJYDTUx4dVBPZDJRS2s)
+	
+	![http://forccast.hypotheses.org/files/2017/05/ARM160428-019.jpg](A specific forccast classroom)
