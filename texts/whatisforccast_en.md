@@ -20,5 +20,4 @@ Forccast deploys such teaching methods by developing and utilizing the necessary
 [^salle-de-classe]:
 
 	A specific classroom has been designed for controversy mapping & simulation of negotiations teaching
-	
 	![A specific forccast classroom](http://forccast.hypotheses.org/files/2017/05/ARM160428-019.jpg)
