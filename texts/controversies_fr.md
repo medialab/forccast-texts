@@ -19,4 +19,4 @@ La cartographie des controverses peut ainsi être conçue comme une proposition 
     
 [^lien-etudes]:
 
-	Voir les [travaux des étudiants dans la partie études de cas](/fr/projects).
+	Voir les [travaux des étudiants dans la partie études de cas](/fr/studies).
