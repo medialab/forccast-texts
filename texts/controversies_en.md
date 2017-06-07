@@ -18,4 +18,4 @@ The mapping of controversies can therefore be conceived as an original proposal 
     
 [^link-studies]:
 
-	See the [students' case studies works](/en/projects).
+	See the [students' case studies works](/en/studies).
