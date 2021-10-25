@@ -14,7 +14,7 @@ The mapping of controversies can therefore be conceived as an original proposal 
 
 [^link-video]: See an example of method:
 
-	<iframe src="https://player.vimeo.com/video/171718435" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/637827829" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     
 [^link-studies]:
 

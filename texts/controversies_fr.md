@@ -15,7 +15,7 @@ La cartographie des controverses peut ainsi être conçue comme une proposition 
 
 [^lien-video]: voir l'exemple de la soutenance du cours de cartographie des controverses de l'école de la communication de Sciences Po, 2016 :
 
-	<iframe src="https://player.vimeo.com/video/171718435" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/637827829" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     
 [^lien-etudes]:
 

@@ -10,7 +10,7 @@ Forccast propose enfin de développer l’environnement complet nécessaire au d
 
 [^lien-lycees]: Conférence de Bruno Latour au lycée Germaine Tillion, Le Bourget, 2016.
 
-	<iframe src="https://player.vimeo.com/video/154046912?color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/637826956?color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [^carto-controverses]:
 
@@ -21,7 +21,7 @@ Forccast propose enfin de développer l’environnement complet nécessaire au d
 
 	Voir un exemple de simulation : *Les réseaux électriques en transition*, SciencesPo, 2016.
 
-	<iframe src="https://player.vimeo.com/video/207531778" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/637827580" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     
 [^salle-classe]: 
 
